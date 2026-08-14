@@ -10,9 +10,9 @@ Building practical projects in **ETL, Data Warehousing, databases, and data pipe
 ### 🛠️ Technical Skills
 
 **Languages:** Python • Java • C
-**Databases:** SQL • MongoDB
+**Databases:** SQL • MongoDB • PostgreSQL
 **Data Engineering:** ETL • Data Warehousing • Data Pipelines
-**Core:** DSA • DBMS • OOP
+**Core:** DSA • DBMS • OOP • CN • OS
 **Tools:** Git • GitHub • VS Code • IntelliJ IDEA
 
 ---
@@ -46,8 +46,8 @@ Seeking opportunities to start my career as a **Data Engineer** and contribute t
 
 ### 📫 Connect
 
-**LinkedIn:** [Your LinkedIn]
-**Email:** [Your Professional Email]
+**LinkedIn:** www.linkedin.com/in/m-naveenkumar-aa1b923b4
+**Email:** mnaveenkumar200608@gmail.com
 
 
 <!--
