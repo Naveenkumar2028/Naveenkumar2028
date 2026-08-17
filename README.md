@@ -47,6 +47,7 @@ Seeking opportunities to start my career as a **Data Engineer** and contribute t
 ### 📫 Connect
 
 **LinkedIn:** www.linkedin.com/in/m-naveenkumar-aa1b923b4
+
 **Email:** mnaveenkumar200608@gmail.com
 
 
