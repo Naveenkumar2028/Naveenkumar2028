@@ -7,13 +7,31 @@ Building practical projects in **ETL, Data Warehousing, databases, and data pipe
 
 ---
 
-### 🛠️ Technical Skills
+## ⚡ Technical Arsenal
 
-**Languages:** Python • Java • C
-**Databases:**   **SQL • MongoDB • PostgreSQL**
-**Data Engineering:** ETL • Data Warehousing • Data Pipelines
-**Core:** DSA • DBMS • OOP • CN • OS
-**Tools:** Git • GitHub • VS Code • IntelliJ IDEA
+> 💡 Building with code, working with data, and solving real-world problems.
+
+### 💻 Programming
+`Python` • `Java` • `C`
+
+### 🗄️ Data & Databases
+`SQL` • `MongoDB` • `PostgreSQL`
+
+### 🔄 Data Engineering
+`ETL` • `Data Warehousing` • `Data Pipelines`
+
+### 🧠 Computer Science
+`DSA` • `DBMS` • `OOP` • `Computer Networks` • `Operating Systems`
+
+### 🛠️ Developer Tools
+`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA`
+
+### 🚀 What I Work With
+
+**Code** → Build applications  
+**Data** → Analyze & transform information  
+**Engineering** → Design reliable pipelines  
+**Problem Solving** → Apply DSA & CS fundamentals
 
 ---
 
