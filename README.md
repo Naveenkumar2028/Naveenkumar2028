@@ -1,68 +1,83 @@
 <div align="center">
 
-# 👋 Hey, I'm **M Naveenkumar**
-
-### `Aspiring Data Engineer` • `CSE Student` • `Problem Solver`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Data+Pipelines+%F0%9F%94%A5;Turning+Raw+Data+into+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Java+%7C+Data+Engineering;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+%E2%80%A2+Growing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:172554,100:0284C7&text=M%20NAVEENKUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=ASPIRING%20DATA%20ENGINEER%20%7C%20CSE%20STUDENT&descSize=17&descAlignY=62&animation=fadeIn"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Java+%7C+JavaScript;Data+Engineering+%7C+ETL+%7C+Data+Warehousing;Building+Projects+That+Solve+Real+Problems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80"/>
+
+<br><br>
+
 <a href="https://github.com/Naveenkumar2028">
-<img src="https://img.shields.io/badge/GitHub-Naveenkumar2028-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Naveenkumar2028-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/m-naveenkumar-aa1b923b4">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:mnaveenkumar200608@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Naveenkumar2028&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Naveenkumar2028&label=PROFILE%20VIEWS&style=flat-square&color=0284C7"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+
+## 👋 Welcome to my profile
+
+### **I build with code. I work with data. I solve problems.**
+
+</div>
 
 <table>
 <tr>
-<td width="55%">
+<td width="65%">
 
-### 🚀 Who am I?
+### 🚀 About Me
 
-I'm a **Computer Science Engineering student** focused on becoming a **Data Engineer**.
+I'm **M Naveenkumar**, a Computer Science Engineering student focused on building my career in **Data Engineering**.
 
-I enjoy transforming messy data into useful information and building systems that are reliable, scalable, and practical.
+My interests revolve around **data, databases, software development, and problem solving**.
 
-I'm currently working on:
+I enjoy taking a problem, understanding the data behind it, and turning it into a practical solution.
 
-* 🔄 **ETL & Data Pipelines**
-* 🗄️ **SQL & Databases**
-* 🏗️ **Data Warehousing**
-* 🧠 **DSA & Problem Solving**
-* 🤖 **GenAI & Agentic AI**
-* ☁️ **Cloud & Data Engineering**
+**Currently focused on:**
+
+🔹 Data Engineering
+🔹 SQL & Databases
+🔹 ETL & Data Pipelines
+🔹 Data Warehousing
+🔹 DSA & Core CS
+🔹 GenAI & Agentic AI
 
 </td>
 
-<td width="45%">
+<td width="35%">
 
-```text
-╔══════════════════════╗
-║    NAVEENKUMAR       ║
-╠══════════════════════╣
-║ 🎓 CSE Student       ║
-║ 🚀 Data Engineer     ║
-║ 🐍 Python Developer  ║
-║ ☕ Java Programmer   ║
-║ 🗄️ SQL Enthusiast    ║
-║ 🧠 Problem Solver    ║
-║ 🔥 Builder           ║
-╚══════════════════════╝
+### ⚡ Quick Profile
+
+```text id="0mmj4u"
+🎓 CSE Student
+
+🚀 Aspiring
+   Data Engineer
+
+🐍 Python
+☕ Java
+🌐 Web
+
+🗄️ SQL
+🍃 MongoDB
+🐘 PostgreSQL
+
+🧠 Problem Solver
 ```
 
 </td>
@@ -71,21 +86,25 @@ I'm currently working on:
 
 ---
 
-# ⚡ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c" />
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
 
-### 🗄️ Data & Databases
+### Web
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-### 🛠️ Tools & Development
+### Data & Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
 
 </div>
 
@@ -93,13 +112,9 @@ I'm currently working on:
 
 <div align="center">
 
-|        🔥 Area       | 🧰 Technologies                         |
-| :------------------: | :-------------------------------------- |
-|    **Programming**   | Python • Java • C                       |
-|     **Databases**    | SQL • PostgreSQL • MongoDB              |
-| **Data Engineering** | ETL • Data Pipelines • Data Warehousing |
-| **Computer Science** | DSA • DBMS • OOP • CN • OS              |
-|    **Development**   | Git • GitHub • VS Code • IntelliJ       |
+`ETL` `Data Pipelines` `Data Warehousing` `Data Analytics`
+
+`DSA` `DBMS` `OOP` `Computer Networks` `Operating Systems`
 
 </div>
 
@@ -110,47 +125,55 @@ I'm currently working on:
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📊 E-Commerce Intelligence
 
 **Data Engineering • Analytics**
 
-A practical data-driven application designed to transform e-commerce data into meaningful business insights.
+A practical data-focused application that transforms e-commerce information into useful business insights.
 
-**Tech**
+**Tech Stack**
 
 `Python` `SQL` `PostgreSQL` `ETL`
 
-### Highlights
+**Highlights**
 
-🔹 Data Processing
-🔹 Database Integration
-🔹 Business Intelligence
-🔹 Analytics Dashboard
-🔹 Backend APIs
+📦 Data Processing
+🔄 ETL Workflows
+🗄️ Database Integration
+📊 Business Analytics
+⚙️ Backend APIs
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 AI Resume Analyzer
+## 🏗️ Data Warehouse & ETL
 
-**GenAI • Agentic AI**
+**Data Engineering**
 
-An intelligent resume analysis system that compares resumes against job descriptions using an agent-based workflow.
+An end-to-end pipeline that transforms raw data into structured, analytics-ready information.
 
-**Tech**
+**Tech Stack**
 
-`Python` `LangGraph` `Gemini` `Streamlit`
+`Python` `SQL` `ETL`
 
-### Highlights
+**Flow**
 
-🔹 Resume Analysis
-🔹 Job Description Analysis
-🔹 AI Comparison
-🔹 Agent Workflow
-🔹 Automated Report
+`Raw Data`
+
+↓
+
+`Extract → Transform → Load`
+
+↓
+
+`Data Warehouse`
+
+↓
+
+`Analytics`
 
 </td>
 
@@ -158,59 +181,44 @@ An intelligent resume analysis system that compares resumes against job descript
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏗️ Data Warehouse & ETL
+## 🤖 AI Resume Analyzer
 
-**Data Engineering**
+**GenAI • Agentic AI**
 
-End-to-end pipeline for converting raw data into structured, analytics-ready datasets.
+An AI-powered application that compares resumes with job descriptions and generates an intelligent analysis report.
 
-**Tech**
+**Tech Stack**
 
-`Python` `SQL` `ETL`
+`Python` `LangGraph` `Gemini` `Streamlit`
 
-### Pipeline
+**Highlights**
 
-```text
-RAW DATA
-   ↓
-EXTRACT
-   ↓
-TRANSFORM
-   ↓
-LOAD
-   ↓
-DATA WAREHOUSE
-   ↓
-ANALYTICS
-```
+📄 Resume Analysis
+💼 Job Analysis
+🔍 Skill Matching
+🤖 Agent Workflow
+📑 AI Report
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 💻 DSA Journey
+## 💻 DevBoard
 
-**Java • LeetCode**
+**HTML • CSS • JavaScript**
 
-Building strong algorithmic thinking through consistent problem solving.
+A gamified developer productivity dashboard designed to make task management more engaging.
 
-```text
-Arrays
- ↓
-Strings
- ↓
-Linked Lists
- ↓
-Stacks & Queues
- ↓
-Trees
- ↓
-Graphs
- ↓
-Dynamic Programming
-```
+**Features**
+
+✅ Task Management
+🎯 Productivity Tracking
+🌙 Dark / Light Mode
+🔊 Interactive UI
+🎮 Gamification
+📱 Responsive Design
 
 </td>
 
@@ -219,56 +227,60 @@ Dynamic Programming
 
 ---
 
-# 🧠 My Engineering Philosophy
+# 💻 DSA & Problem Solving
 
 <div align="center">
 
-```text
-          💡 IDEA
-            │
-            ▼
-        🧩 DESIGN
-            │
-            ▼
-        💻 BUILD
-            │
-            ▼
-        🧪 TEST
-            │
-            ▼
-        🐛 DEBUG
-            │
-            ▼
-       ⚡ OPTIMIZE
-            │
-            ▼
-        🚀 DEPLOY
-            │
-            ▼
-        📚 LEARN
-            │
-            └──────────────► REPEAT
-```
+### **Building the fundamentals behind good engineering.**
 
-### **Build → Break → Debug → Improve → Repeat**
+`Arrays` • `Strings` • `Recursion` • `Linked Lists`
+
+`Stacks` • `Queues` • `Trees` • `Graphs`
+
+`Dynamic Programming` • `Algorithms`
+
+**Java • LeetCode • GeeksforGeeks**
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📜 Certifications
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar2028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar2028&layout=compact&theme=tokyonight&hide_border=true"/>
+| Certification                |      Provider      |
+| :--------------------------- | :----------------: |
+| 🟢 MongoDB Certification     | MongoDB University |
+| ☕ Java Certification         |       Infosys      |
+| 🗄️ Oracle SQL Certification |       Oracle       |
+| 📊 Data Analytics            |         IBM        |
 
 </div>
 
-<br>
+---
+
+# 📚 Currently Learning
 
 <div align="center">
+
+`Advanced SQL`   `Data Engineering`   `Data Pipelines`
+
+`Data Warehousing`   `Cloud`   `DSA`   `GenAI`
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar2028&show_icons=true&hide_border=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar2028&layout=compact&hide_border=true&theme=tokyonight"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Naveenkumar2028&theme=tokyonight&hide_border=true"/>
 
@@ -276,101 +288,40 @@ Dynamic Programming
 
 ---
 
-# 🎯 2026 Learning Roadmap
+# 🎯 Career Goal
 
 <div align="center">
 
-```text
-                    2026
-                      │
-       ┌──────────────┼──────────────┐
-       ▼              ▼              ▼
-   🗄️ DATA         ☁️ CLOUD        🧠 DSA
-       │              │              │
-       ▼              ▼              ▼
- Advanced SQL     Cloud Basics    Algorithms
-       │              │              │
-       ▼              ▼              ▼
- Data Pipelines   Data Services    Problem Solving
-       │              │              │
-       └──────────────┼──────────────┘
-                      ▼
-              🚀 DATA ENGINEER
-```
+### 🚀 **Become a Data Engineer**
+
+Build reliable pipelines.
+
+Work with meaningful data.
+
+Design scalable systems.
+
+Solve real-world problems.
+
+**Learn → Build → Contribute → Grow**
 
 </div>
 
 ---
 
-# 📊 Current Focus
-
-<div align="center">
-
-### 🔄 Data Engineering
-
-`████████████████░░░░` **80%**
-
-### 🗄️ SQL & Databases
-
-`██████████████████░░` **90%**
-
-### 🧠 DSA
-
-`██████████████░░░░░░` **70%**
-
-### ☁️ Cloud
-
-`██████████░░░░░░░░░░` **50%**
-
-### 🤖 GenAI
-
-`████████████░░░░░░░░` **60%**
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-`Advanced SQL` • `Data Engineering` • `Data Pipelines`
-`Data Warehousing` • `Cloud` • `DSA` • `GenAI`
-
-</div>
-
----
-
-# 🏆 What I'm Looking For
-
-<div align="center">
-
-### 🚀 **Data Engineering Opportunities**
-
-I'm looking to start my career where I can:
-
-**Learn** → **Build** → **Contribute** → **Scale**
-
-and work with real-world data, databases, pipelines, and engineering systems.
-
-</div>
-
----
-
-# 🌐 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/m-naveenkumar-aa1b923b4">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-M%20Naveenkumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mnaveenkumar200608@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-mnaveenkumar200608%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/m*_.naveenkumar._08">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -379,8 +330,8 @@ and work with real-world data, databases, pipelines, and engineering systems.
 
 <div align="center">
 
-### ⚡ **Code. Data. Engineering. Impact.**
+### ⚡ **CODE • DATA • ENGINEERING • IMPACT**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0284C7,50:172554,100:0F172A&section=footer"/>
 
 </div>
